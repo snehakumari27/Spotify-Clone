@@ -57,5 +57,4 @@ This project was created to:
 
 ⭐ *If you find this project interesting, don’t forget to give it a star on GitHub!*  
 
-
-## 📂 Project Structure  
+  
